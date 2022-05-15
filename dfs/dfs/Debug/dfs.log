@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): warning : Отказано в доступе по пути "c:\users\user\source\repos\dfs\debug\dfs.exe".
+  dfs.cpp
+C:\Users\User\source\repos\dfs\dfs\dfs.cpp(8,28): warning C4805: ==: небезопасное смешение типа "_Ty" и типа "bool" в операции
+          with
+          [
+              _Ty=int
+          ]
+LINK : fatal error LNK1104: не удается открыть файл "C:\Users\User\source\repos\dfs\Debug\dfs.exe"

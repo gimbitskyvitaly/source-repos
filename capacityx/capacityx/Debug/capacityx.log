@@ -1,0 +1,21 @@
+﻿  capacityx.cpp
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(11,9): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(41,13): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(90,11): warning C4244: *=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(91,11): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(97,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(112,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(113,25): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(114,25): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(115,25): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(139,41): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(140,41): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(144,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(151,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(152,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(155,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(155,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(162,57): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(183,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\capacityx\capacityx\capacityx.cpp(145,7): warning C4101: ux: неиспользованная локальная переменная
+  capacityx.vcxproj -> C:\Users\User\source\repos\capacityx\Debug\capacityx.exe

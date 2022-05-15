@@ -1,0 +1,3 @@
+﻿  dejkstra.cpp
+C:\Users\User\source\repos\dejkstra\dejkstra\dejkstra.cpp(37,23): warning C4018: <: несоответствие типов со знаком и без знака
+  dejkstra.vcxproj -> C:\Users\User\source\repos\dejkstra\Debug\dejkstra.exe

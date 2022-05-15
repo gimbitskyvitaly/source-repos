@@ -1,0 +1,5 @@
+﻿  cil.cpp
+C:\Users\User\source\repos\cil\cil\cil.cpp(18,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\cil\cil\cil.cpp(46,19): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\cil\cil\cil.cpp(67): warning C4715: maxmult: значение возвращается не при всех путях выполнения
+  cil.vcxproj -> C:\Users\User\source\repos\cil\Debug\cil.exe
