@@ -1,0 +1,7 @@
+﻿  dfsfind.cpp
+C:\Users\User\source\repos\dfsfind\dfsfind\dfsfind.cpp(9,28): warning C4805: ==: небезопасное смешение типа "_Ty" и типа "bool" в операции
+          with
+          [
+              _Ty=int
+          ]
+  dfsfind.vcxproj -> C:\Users\User\source\repos\dfsfind\Debug\dfsfind.exe
