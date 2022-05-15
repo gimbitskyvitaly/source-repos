@@ -1,0 +1,12 @@
+﻿  matrix.cpp
+C:\Users\User\source\repos\matrix\matrix\matrix.cpp(9,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\matrix\matrix\matrix.cpp(25,34): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\matrix\matrix\matrix.cpp(27,26): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\matrix\matrix\matrix.cpp(59,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\matrix\matrix\matrix.cpp(62,22): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\matrix\matrix\matrix.cpp(63,22): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\matrix\matrix\matrix.cpp(64,22): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\matrix\matrix\matrix.cpp(66,26): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\matrix\matrix\matrix.cpp(67,26): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\matrix\matrix\matrix.cpp(68,26): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+  matrix.vcxproj -> C:\Users\User\source\repos\matrix\Debug\matrix.exe
