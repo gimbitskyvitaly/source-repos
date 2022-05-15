@@ -1,0 +1,3 @@
+﻿  lab1visitor.cpp
+C:\Users\User\source\repos\lab1visitor\lab1visitor\lab1visitor.cpp(103,32): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  lab1visitor.vcxproj -> C:\Users\User\source\repos\lab1visitor\Debug\lab1visitor.exe

@@ -1,0 +1,44 @@
+﻿  Iterator.cpp
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(7,15): error C2039: "*": не является членом "Iterator".
+C:\Users\User\source\repos\lab 1\lab 1\Set.h(51): message : см. объявление "Iterator"
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(7,36): error C2065: set: необъявленный идентификатор
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(7,40): error C2065: index: необъявленный идентификатор
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(9,49): error C2556: Iterator Iterator::operator =(const Iterator &): перегруженная функция отличается от "Iterator &Iterator::operator =(const Iterator &)" только возвращаемым типом
+C:\Users\User\source\repos\lab 1\lab 1\Set.h(61): message : в этом месте создано компилятором: "Iterator::operator ="
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(9,20): error C2040: Iterator::operator =: "Iterator (const Iterator &)" отличается по уровням косвенного обращения от "Iterator &(const Iterator &)"
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(9,49): error C2600: Iterator::operator =: нельзя определить специальную функцию-член, созданную компилятором (сначала необходимо объявить ее в классе)
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(14,16): error C2039: "==": не является членом "Iterator".
+C:\Users\User\source\repos\lab 1\lab 1\Set.h(51): message : см. объявление "Iterator"
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(14,54): error C2270: ==: модификаторы недопустимы для функций, не являющихся членами
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(15,11): error C2065: index: необъявленный идентификатор
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(15,21): error C2248: Iterator::index: невозможно обратиться к private член, объявленному в классе "Iterator"
+C:\Users\User\source\repos\lab 1\lab 1\Set.h(53): message : см. объявление "Iterator::index"
+C:\Users\User\source\repos\lab 1\lab 1\Set.h(51): message : см. объявление "Iterator"
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(15,31): error C2065: set: необъявленный идентификатор
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(15,39): error C2248: Iterator::set: невозможно обратиться к private член, объявленному в классе "Iterator"
+C:\Users\User\source\repos\lab 1\lab 1\Set.h(54): message : см. объявление "Iterator::set"
+C:\Users\User\source\repos\lab 1\lab 1\Set.h(51): message : см. объявление "Iterator"
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(18,16): error C2039: "!=": не является членом "Iterator".
+C:\Users\User\source\repos\lab 1\lab 1\Set.h(51): message : см. объявление "Iterator"
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(18,52): error C2270: !=: модификаторы недопустимы для функций, не являющихся членами
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(19,12): error C2065: index: необъявленный идентификатор
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(19,22): error C2248: Iterator::index: невозможно обратиться к private член, объявленному в классе "Iterator"
+C:\Users\User\source\repos\lab 1\lab 1\Set.h(53): message : см. объявление "Iterator::index"
+C:\Users\User\source\repos\lab 1\lab 1\Set.h(51): message : см. объявление "Iterator"
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(19,32): error C2065: set: необъявленный идентификатор
+C:\Users\User\source\repos\lab 1\lab 1\Iterator.cpp(19,40): error C2248: Iterator::set: невозможно обратиться к private член, объявленному в классе "Iterator"
+C:\Users\User\source\repos\lab 1\lab 1\Set.h(54): message : см. объявление "Iterator::set"
+C:\Users\User\source\repos\lab 1\lab 1\Set.h(51): message : см. объявление "Iterator"
+  lab 1.cpp
+C:\Users\User\source\repos\lab 1\lab 1\lab 1.cpp(24,3): error C2065: Average: необъявленный идентификатор
+C:\Users\User\source\repos\lab 1\lab 1\lab 1.cpp(24,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+C:\Users\User\source\repos\lab 1\lab 1\lab 1.cpp(24,11): error C2065: x: необъявленный идентификатор
+C:\Users\User\source\repos\lab 1\lab 1\lab 1.cpp(82,3): error C2065: StackInt: необъявленный идентификатор
+C:\Users\User\source\repos\lab 1\lab 1\lab 1.cpp(82,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "stack"
+C:\Users\User\source\repos\lab 1\lab 1\lab 1.cpp(82,12): error C3861: stack: идентификатор не найден
+C:\Users\User\source\repos\lab 1\lab 1\lab 1.cpp(83,23): error C2065: stack: необъявленный идентификатор
+C:\Users\User\source\repos\lab 1\lab 1\lab 1.cpp(84,8): error C2065: stack: необъявленный идентификатор
+C:\Users\User\source\repos\lab 1\lab 1\lab 1.cpp(84,28): error C2065: x: необъявленный идентификатор
+C:\Users\User\source\repos\lab 1\lab 1\lab 1.cpp(86,16): error C2065: x: необъявленный идентификатор
+C:\Users\User\source\repos\lab 1\lab 1\lab 1.cpp(86,26): error C2065: stack: необъявленный идентификатор
+  Создание кода...
